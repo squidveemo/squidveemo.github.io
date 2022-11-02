@@ -11,6 +11,7 @@
    sodipodi:docname="myProjects.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -25,44 +26,127 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.025849"
-     inkscape:cx="177.70327"
+     inkscape:cx="170.79259"
      inkscape:cy="56.025893"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer6" />
   <defs
-     id="defs701" />
+     id="defs701">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient23710">
+      <stop
+         style="stop-color:#3ff1b8;stop-opacity:1;"
+         offset="0"
+         id="stop23706" />
+      <stop
+         style="stop-color:#19cce5;stop-opacity:0.24528304;"
+         offset="1"
+         id="stop23708" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect23546"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient23710"
+       id="linearGradient23712"
+       x1="31.045707"
+       y1="13.467753"
+       x2="45.734998"
+       y2="13.467753"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-1.4776119,-90.503731)">
     <rect
-       style="fill:#808080;stroke-width:0.17632"
-       id="rect708"
+       style="fill:#808080;stroke-width:0.27386"
+       id="rect279"
        width="50"
        height="30"
-       x="1.4776119"
-       y="90.503731" />
+       x="1.4229157"
+       y="90.653755"
+       ry="7.7574625" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Layer 2">
+    <path
+       style="fill:#4d4d4d;stroke:url(#linearGradient23712);stroke-width:1.118;stroke-dasharray:none;stroke-opacity:1"
+       d="m 33.030094,9.4143388 c -0.909546,1.0923772 -1.976005,2.7879372 -1.984338,4.0944332 -0.0083,1.306497 1.041129,2.223662 2.111195,2.171804 1.070066,-0.05186 2.160866,-1.072391 2.880489,-1.621931 0.719622,-0.549539 1.067815,-0.627995 1.474743,-0.47125 0.406928,0.156746 0.872454,0.548387 0.932906,1.377854 0.06045,0.829467 -0.283834,2.096817 -0.147019,3.095292 0.136816,0.998476 0.754448,1.727864 1.949958,1.508544 1.19551,-0.21932 2.968764,-1.386853 4.047973,-2.642356 1.079209,-1.255502 1.464135,-2.598866 1.40616,-3.557194 -0.05797,-0.958328 -0.559109,-1.531729 -1.884916,-2.509876 C 42.491439,9.8815117 40.340981,8.4987565 38.808102,7.8452633 37.275223,7.19177 36.360031,7.2677909 35.526081,7.5503313 34.69213,7.8328718 33.939641,8.3219621 33.030094,9.4143388 Z"
+       id="path23544"
+       inkscape:path-effect="#path-effect23546"
+       inkscape:original-d="m 33.187016,8.8111406 c -1.066151,1.6957744 -2.13261,3.3913344 -3.199377,5.0866814 1.049812,0.917415 2.099273,1.834581 3.148448,2.75155 1.091186,-1.020381 2.181986,-2.040914 3.272579,-3.061765 0.348466,-0.07819 0.696659,-0.156648 1.044604,-0.235372 0.46582,0.39193 0.931346,0.783571 1.396608,1.174948 -0.344023,1.267618 -0.68831,2.534968 -1.032884,3.802139 0.617966,0.729632 1.235598,1.45902 1.852935,2.18821 1.77381,-1.167461 3.547064,-2.334994 5.320372,-3.503002 0.385224,-1.343213 0.77015,-2.686577 1.154802,-4.030172 C 45.644255,12.411147 45.14312,11.837746 44.641668,11.26412 42.491432,9.8815224 40.340975,8.4987666 38.190164,7.1157699 37.275243,7.1920076 36.360051,7.2680284 35.444534,7.3438372 34.692319,7.833162 33.93983,8.3222529 33.187016,8.8111406 Z"
+       sodipodi:nodetypes="cccccccccccccc" />
+    <circle
+       style="fill:#1a1a1a;stroke:none;stroke-width:0.1962;stroke-dasharray:none;stroke-opacity:1"
+       id="path23600"
+       cx="43.752232"
+       cy="13.582783"
+       r="1.1754332" />
+    <circle
+       style="fill:#1a1a1a;stroke:none;stroke-width:0.1962;stroke-dasharray:none;stroke-opacity:1"
+       id="path23600-3"
+       cx="40.878952"
+       cy="14.366405"
+       r="1.1754332" />
+    <rect
+       style="fill:#1a1a1a;stroke:none;stroke-width:0.218;stroke-dasharray:none;stroke-opacity:1"
+       id="rect23676"
+       width="1.6978478"
+       height="3.7875068"
+       x="32.711262"
+       y="-19.807426"
+       transform="rotate(43.726969)"
+       inkscape:transform-center-x="1.3060368"
+       inkscape:transform-center-y="0.91422576" />
+    <rect
+       style="fill:#1a1a1a;stroke:none;stroke-width:0.20753;stroke-dasharray:none;stroke-opacity:1"
+       id="rect23681"
+       width="3.7875068"
+       height="1.4366405"
+       x="31.666431"
+       y="-18.631992"
+       transform="rotate(43.726969)"
+       inkscape:transform-center-x="1.3060381"
+       inkscape:transform-center-y="0.91422587" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Layer 3">
     <text
        xml:space="preserve"
-       style="font-size:11.112px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';fill:#000000;stroke-width:0.260436"
-       x="8.3036995"
-       y="99.883904"
-       id="text712"
-       transform="scale(0.9843257,1.0159239)"><tspan
+       style="font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;stroke:#000000;stroke-width:0.218;stroke-dasharray:none;stroke-opacity:1"
+       x="4.0896854"
+       y="101.34383"
+       id="text18580"
+       transform="translate(-1.4776119,-90.503732)"><tspan
          sodipodi:role="line"
-         id="tspan710"
-         style="stroke-width:0.260436"
-         x="8.3036995"
-         y="99.883904">my </tspan><tspan
+         id="tspan18578"
+         style="fill:#000000;stroke:#000000;stroke-width:0.218;stroke-dasharray:none;stroke-opacity:1"
+         x="4.0896854"
+         y="101.34383">my</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.260436"
-         x="8.3036995"
-         y="113.7739"
-         id="tspan714">projects</tspan></text>
+         style="fill:#000000;stroke:#000000;stroke-width:0.218;stroke-dasharray:none;stroke-opacity:1"
+         x="4.0896854"
+         y="115.45496"
+         id="tspan18894">projects</tspan></text>
   </g>
 </svg>

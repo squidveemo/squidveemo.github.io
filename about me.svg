@@ -11,6 +11,7 @@
    sodipodi:docname="about me.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -25,39 +26,132 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.025849"
-     inkscape:cx="254.2144"
+     inkscape:cx="190.5374"
      inkscape:cy="85.149485"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer5" />
   <defs
-     id="defs221" />
+     id="defs221">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient25495">
+      <stop
+         style="stop-color:#cf782f;stop-opacity:1;"
+         offset="0"
+         id="stop25491" />
+      <stop
+         style="stop-color:#ce9524;stop-opacity:0;"
+         offset="1"
+         id="stop25493" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect25481"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient25495"
+       id="linearGradient25497"
+       x1="66.607873"
+       y1="-3.7222054"
+       x2="77.839789"
+       y2="-3.7222054"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient25495"
+       id="linearGradient25499"
+       gradientUnits="userSpaceOnUse"
+       x1="66.607873"
+       y1="-3.7222054"
+       x2="77.839789"
+       y2="-3.7222054" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient25495"
+       id="linearGradient25501"
+       gradientUnits="userSpaceOnUse"
+       x1="66.607873"
+       y1="-3.7222054"
+       x2="77.839789"
+       y2="-3.7222054" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0.73880595,-88.656715)">
     <rect
-       style="fill:#808080;stroke-width:0.133902"
-       id="rect436"
+       style="fill:#808080;stroke-width:0.27386"
+       id="rect279"
        width="50"
        height="30"
-       x="-0.73880595"
-       y="88.656715" />
+       x="-0.66289866"
+       y="88.54554"
+       ry="7.7574625" />
     <text
        xml:space="preserve"
-       style="font-size:13.399px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';fill:#000000;stroke-width:0.314038"
-       x="0.8282724"
-       y="92.300644"
-       id="text633"
-       transform="scale(0.84251819,1.186918)"><tspan
+       style="font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;stroke-width:0.618001"
+       x="12.452166"
+       y="102.76191"
+       id="text8485"><tspan
          sodipodi:role="line"
-         id="tspan631"
-         style="font-size:13.399px;stroke-width:0.314038"
-         x="0.8282724"
-         y="92.300644">about me</tspan></text>
+         id="tspan8483"
+         style="stroke-width:0.618;fill:#000000"
+         x="12.452166"
+         y="102.76191" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 2">
+    <g
+       id="g25489"
+       style="stroke:url(#linearGradient25497)"
+       transform="translate(-35.393598,25.20651)">
+      <rect
+         style="fill:#4d4d4d;fill-opacity:1;stroke:url(#linearGradient25499);stroke-width:1.018;stroke-dasharray:none"
+         id="rect25483"
+         width="8.4892387"
+         height="14.366405"
+         x="67.78331"
+         y="-7.3138061"
+         ry="4.2446194" />
+      <ellipse
+         style="fill:#4d4d4d;fill-opacity:1;stroke:url(#linearGradient25501);stroke-width:1.0775;stroke-dasharray:none"
+         id="path25485"
+         cx="72.223831"
+         cy="-8.946353"
+         rx="5.6159582"
+         ry="5.5506563" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 3">
+    <text
+       xml:space="preserve"
+       style="font-size:10.6156px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;stroke:#000000;stroke-width:0.581144;stroke-opacity:1"
+       x="3.9064648"
+       y="17.316877"
+       id="text8489"
+       transform="scale(0.94036144,1.0634209)"><tspan
+         sodipodi:role="line"
+         id="tspan8487"
+         style="stroke:#000000;stroke-width:0.581143;stroke-opacity:1"
+         x="3.9064648"
+         y="17.316877">About me</tspan></text>
   </g>
 </svg>
